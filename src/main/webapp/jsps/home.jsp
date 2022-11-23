@@ -4,36 +4,36 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>acadalearning.com- Home Page</title>
+<title>gogetters.com- Home Page</title>
 <link href="images/DP black.png" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">ACADA Learning</h1>
-<h2 align="center"> Welcome to ACADA Learning. 
-	ACADA Learning is a an ideal online training  platform for DevOps and Cloud Engineers. 
-	We offer interview preparations and job assitance,
-	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY. Jesus is Lord</h2>
+<h1 align="center">THE GO GETTERS GROUP (TGG)</h1>
+<h2 align="center"> Welcome to The Go Getters Club. 
+	This club was created by highly trained, Devops Engineers to tackle all Past, Present and Future Devops problems, that other mere mortals are too afraid to solve 
+	We offer assistance to Devops Engineers worldwide, if they can afford us.
+	You cannot request to join us. we will pick you if we think you are good enough to join us.</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
 		<img src="images/DP black.png" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		ACADA Learning, 
-		Alberta, Calgary, Canada
-		+1 587 574 2233,
-		info@acadalearning.com
+		The Go Getters Club, 
+		Location is top secret,
+		Phone number is classified,
+		info@thegogettersgroup.com
 		<br>
-		<a href="mailto:info@acadalearning.com">Mail to ACADA Learning</a>
+		<a href="mailto:info@thegogettersgroup.com">Mail to ACADA Learning</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>ACADA Learning - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="https://acadalearning.com/">ACADA Learning</a> </small></p>
+<p align=center>The Go Getters Group. - Consultant, Training, Problem Solving.</p>
+<p align=center><small>Copyrights 2022 by <a href="https://Thegogettersgroup.com/">The Go Getters Group</a> </small></p>
 
 </body>
 </html>
